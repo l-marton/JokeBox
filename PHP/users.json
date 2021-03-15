@@ -1,0 +1,9 @@
+{
+    "admin": {
+        "name": "admin",
+        "password": "admin",
+        "email": "admin@admin.hu",
+        "id": "admin",
+        "admin": true
+    }
+}
